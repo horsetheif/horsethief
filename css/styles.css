@@ -156,7 +156,7 @@ header {
 }
 
 .header-bg-image {
-  	opacity: 0.25;
+  	opacity: 0.35;
   	/*The opacity property specifies the opacity/transparency of an element.*/
   	position: absolute;
   	left: 0;
@@ -166,7 +166,7 @@ header {
 }
 
 .header-content {
-	height: 46.296vh; /* Roughly 500px of 1080px high screen */
+	height: 66.296vh; /* Roughly 500px of 1080px high screen */
  	position: relative;
   	display: flex;
   	flex-direction: column;
