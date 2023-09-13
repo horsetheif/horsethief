@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://horsethief-canyon.netlify.app/
