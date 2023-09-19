@@ -1,4 +1,8 @@
 
+/* Fonts:
+font-family: 'Amatic SC', cursive;
+font-family: 'Holtwood One SC', serif;
+font-family: 'Raleway', sans-serif; */
 body {
 	font-family: 'Raleway', sans-serif;
 	color: #524848;
@@ -108,11 +112,12 @@ header h2 { /* 40px is 2.083%  of 1920px */
 }
 
 h1, h2, h3 {
-	font-family: 'Moon Dance', cursive;
+	font-family: 'Holtwood One SC', serif;
 	color: #841f1f;
 }
 
 h2, h3 {
+	font-family: 'Amatic SC', cursive;
 	line-height: 1;
 	margin: 40px 0;
 }
