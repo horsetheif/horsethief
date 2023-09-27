@@ -200,6 +200,7 @@ main {
 
 article img {
 	border: none;
+	border-radius: 25%;
 	-webkit-box-shadow: 3px 3px 7px #716363;
 	-moz-box-shadow: 3px 3px 7px #716363;
 }
