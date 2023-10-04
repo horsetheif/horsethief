@@ -54,6 +54,22 @@ In any case, the Owner will gladly help to clarify the specific legal basis that
 Further information about retention time
 Unless specified otherwise in this document, Personal Data shall be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.
 
+Access to third-party accounts
+This type of service allows this Application to access Data from your account on a third-party service and perform actions with it.
+These services are not activated automatically, but require explicit authorisation by the User.
+
+Facebook account access (Meta Platforms, Inc.)
+This service allows this Application to connect with the User's account on the Facebook social network, provided by Meta Platforms, Inc.
+Permissions asked: Link.
+
+Place of processing: United States – Privacy Policy.
+
+Instagram widget (Meta Platforms, Inc.)
+Instagram is an image visualisation service provided by Meta Platforms, Inc. that allows this Application to incorporate content of this kind on its pages.
+Personal Data processed: Trackers; Usage Data.
+
+Place of processing: United States – Privacy Policy.
+
 Therefore:
 
 Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
