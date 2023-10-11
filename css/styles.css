@@ -1,7 +1,7 @@
 
 /* Fonts:
 font-family: 'Amatic SC', cursive;
-font-family: 'Holtwood One SC', serif;
+font-family: 'Rye', serif;
 font-family: 'Raleway', sans-serif; */
 body {
 	font-family: 'Raleway', sans-serif;
@@ -110,12 +110,12 @@ header h2 { /* 40px is 2.083%  of 1920px */
 }
 
 .shine {  /*  Call to action color  */
-	color: #e08e11;
+	color: #b96f00;
 }
 
 h1, h2, h3 {
-	font-family: 'Holtwood One SC', serif;
-	color: #841f1f;
+	font-family: 'Rye', serif;
+	color: #181818;
 }
 
 h2, h3 {
@@ -143,7 +143,7 @@ nav {
 }
 
 .w3-bar-item:link, .w3-bar-item:visited {
-	color:#fcc0c0;
+	color:#b96f00;
 	background-color: #000;
 	text-decoration: none;
 }
@@ -233,13 +233,8 @@ footer ol li {
 	/*Makes the li selectable up the to the edge of the margins*/
 }
 
-footer a:link, a:visited {
-	color:#fff;
-	text-decoration: none;
-}
-
 footer a:hover, a:active {
-	color: #fcc0c0;
+	color: #b96f00;
 	text-decoration: underline;
 }
 
@@ -269,16 +264,20 @@ footer a:hover, a:active {
   border-radius: 50%;
 }
 #cookiePopup button {
-  background-color: #841f1f;
+  background-color: #b96f00;
   border: none;
   color: #ffffff;
   font-size: 1.2em;
   padding: 1em 1.4em;
-  box-shadow: 2px 2px 6px #e08e11;
   display: block;
   position: relative;
   margin: auto;
   border-radius: 5px;
+}
+#cookiePopup button:hover {
+	background-color:#ffffff;
+	color:#181818;
+	cursor: pointer;
 }
 #cookiePopup a {
   color: #fcc0c0;
