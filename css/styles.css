@@ -155,7 +155,7 @@ nav {
 
 header {
 	margin-top: 80px;  /* Space for the nav on page load */
-	}
+}
 
 /*  Places the content image in the bg with the headings on top  */
 .header-bg-wrap {
@@ -307,7 +307,6 @@ footer a:hover, a:active {
 h3 {
 	font-size: 36px;
 }
-
 .outer-container {
 	display: flex;
 	flex-direction: row;
