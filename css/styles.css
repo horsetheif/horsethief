@@ -233,8 +233,12 @@ footer ol li {
 	/*Makes the li selectable up the to the edge of the margins*/
 }
 
-footer a:hover, a:active {
+footer a {
 	color: #b96f00;
+}
+
+footer a:hover, a:active {
+	color: #ffffff;
 	text-decoration: underline;
 }
 
@@ -326,7 +330,7 @@ h3 {
 
 }
 
-@media only screen and  (min-width:1340px) {
+@media only screen and (min-width:1340px) {
  
  .hamburger-position {
 		margin-left: 10%;
