@@ -64,6 +64,12 @@ Permissions asked: Link.
 
 Place of processing: United States – Privacy Policy.
 
+Google Fonts (Google LLC)
+Google Fonts is a typeface visualisation service provided by Google LLC that allows this Application to incorporate content of this kind on its pages.
+Personal Data processed: Trackers; Usage Data.
+
+Place of processing: United States – Privacy Policy.
+
 Instagram widget (Meta Platforms, Inc.)
 Instagram is an image visualisation service provided by Meta Platforms, Inc. that allows this Application to incorporate content of this kind on its pages.
 Personal Data processed: Trackers; Usage Data.
