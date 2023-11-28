@@ -217,6 +217,10 @@ article img {
     overflow-x: scroll;
 }
 
+.padding {
+	padding-bottom: 1rem;
+}
+
 .card {
     border: 1px solid#b96f00;
     border-radius: 15%;
