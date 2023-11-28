@@ -318,6 +318,10 @@ footer a:hover, a:active {
   visibility: visible;
  
 }
+blockquote {
+	font-style: italic;
+	margin: 0 1rem 1.5rem 1rem;
+}
 
 /* -- End of Code for the Cookie Compliance popover window -- */
 
