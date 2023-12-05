@@ -339,11 +339,21 @@ blockquote {
 	background-position: center;
 }
 
-.four-oh-four h1 a {
+.four-oh-four h1, .four-oh-four a {
 	color: #000;
+	font-family: 'Raleway', sans-serif;
 	position: absolute;
 	right: 10%;
-	bottom: 6%;
+	margin: 1rem;
+}
+.four-oh-four h1 {
+	bottom: 12%;
+}
+.four-oh-four a {
+	color: #000;
+	font-family: 'Rye', serif;
+	font-size: 1.6rem;
+	bottom: 5%;
 }
 /* -- End of Code for the Cookie Compliance popover window -- */
 
