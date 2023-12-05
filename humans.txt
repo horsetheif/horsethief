@@ -3,8 +3,8 @@
     Contact: hikehorsethiefcanyon@gmail.com
 
 /* SITE */
-    Last updated: October 11th, 2023
+    Last updated: November 2nd, 2023
     Language: English
     Doctype: HTML 5
-    IDE: VS Code, Notepad, Photoshop, Squoosh, Github, Netlify, Google Analytics
+    IDE: VS Code, Notepad, Photoshop, Squoosh, Github, Netlify, Google Analytics, Screaming Frog, Google Search Console, Illustrator.
     OS: Windows/Android/Linux
