@@ -99,6 +99,10 @@ sequence. */
 	opacity:0.3
 }
 
+img {
+	aspect-ratio: 1 / 1;
+}
+
 /* --- Typographical Scales --- */
 
 /* Viewport is the browser window size. 1vw = 1% of viewport width. */
